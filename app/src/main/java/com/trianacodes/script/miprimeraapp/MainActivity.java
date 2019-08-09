@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
         et_suma1 = findViewById(R.id.Sumando1);
         et_suma2 = findViewById(R.id.Sumando2);
         txt_Resultado = findViewById(R.id.txtResultado);
+
     }
 
     // Este método hace la suma.
